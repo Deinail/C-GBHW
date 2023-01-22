@@ -16,3 +16,4 @@ Difference = Array.Max() - Array.Min();
 
 System.Console.WriteLine($"[{string.Join(", ",  Array)}]"); 
 System.Console.WriteLine("Разница между минимальным и максимальным значениями массива равна " + Difference);
+System.Console.WriteLine();
